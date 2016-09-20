@@ -1,1 +1,2 @@
-# slahiri.github.io
+# slahiri-jekyll
+Jekyll Site Generator for slahiri.github.io
