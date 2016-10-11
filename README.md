@@ -1,4 +1,4 @@
-# slahiri-jekyll - Jekyll Site Generator for slahiri.github.io
+# slahiri.github.io (http://sid.ai)
 
 [![GitHub forks](https://img.shields.io/github/forks/slahiri/slahiri.github.io.svg?style=social&label=Fork)](https://github.com/slahiri/slahiri.github.io)
 [![GitHub stars](https://img.shields.io/github/stars/slahiri/slahiri.github.io.svg?style=social&label=Star)](https://github.com/slahiri/slahiri.github.io)
